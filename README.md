@@ -1,14 +1,14 @@
 # MiniProjectJobPortal
 
 Requirements:
-	Operating system: -
+Operating system: -
 Windows 2004/10/64-bit OS, x64-based processor
 
-	Front-end: -
+Front-end: -
 Html, CSS, JSP, JavaScript
 Eclipse-Java EE
 
-	Back-end: -
+Back-end: -
 MySQL, TOMCAT SERVER
 
 At the very first page of the website, we can see the Applicant Login and Employer Login.
