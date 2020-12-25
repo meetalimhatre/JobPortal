@@ -22,7 +22,7 @@ try{
 	String b1=(String)session.getAttribute("a1");
 	String b2=(String)session.getAttribute("a2");
 	String b3=(String)session.getAttribute("a3");
-	Class.forName("sun.jdbc.odbc.JdbcOdbcDriver");
+	Class.forName("com.mysql.jdbc.Driver");
 	Connection c=DriverManager.getConnection("jdbc:mysql://localhost:3306/abc",
             "root", "Meetali@99");
 	Statement s =c.createStatement();
