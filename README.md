@@ -1,4 +1,4 @@
-# MiniProjectJobPortal
+# JobPortal
 
 The importance of placement system is increasing day by day. Thousands of applicants are depending placement cell. But the applicants are facing so many problems. This project is an attempt to minimize the problems of an applicant to find a correct job. If we can make it an online computerized and a mobile alert process it will be so fast and convenient for the applicants. Far from upsetting matters, however, new technologies have predominantly made life better and considerably easier for most people, and so it must be concluded that they should be welcomed.
 
